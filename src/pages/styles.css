@@ -12,6 +12,7 @@ h2{
     color:#646cff;
 }
 .row-flex{
+    padding-top:1rem;
     display:flex;
     gap:2rem;
 }
