@@ -1,0 +1,17 @@
+.page-layout{
+    padding:3rem 2rem 2rem 2rem;
+    display:flex;
+    flex-direction:column;
+    gap:1.5rem;
+    align-items:center
+}
+h1{
+    color:white;
+}
+h2{
+    color:#646cff;
+}
+.row-flex{
+    display:flex;
+    gap:2rem;
+}
